@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+.square{
+    height:200px;
+    width: 200px;
+    border-radius:20%;
+    background-color:rgb(248, 248, 248);
+    margin:5px;
+    font-size:20px;
+    font-family:'Poppins','sans-serif';
+    color: rgb(31, 31, 122);
+    
+}
+.square1{
+    height:200px;
+    width: 200px;
+    border-radius:20%;
+    background-color:#f15a25;
+    margin:5px;
+}
+.abouthead{
+    font-size:100px;
+    font-weight:700;
+    color: #f15a25;
+    position:relative;
+    top:85px;
+} 
+.abouthead1{
+    font-size:100px;
+    font-weight:700;
+    color: rgb(55, 55, 255);
+    position:relative;
+    top:85px;
+}
+#midlinit{
+    position: relative;
+    left:1rem;
+    top: 2rem;
+    font-family:'Oxygen', sans-serif;;
+    color:white;
+    font-size:85px;
+
+}
+.square_text{
+    position: relative;
+    top: 70px;
+    left:28px;
+    font-weight:600;
+}
+.aboutnew{
+    width: 100%;
+    background-size:cover;
+}
+.centered{
+    position: relative;
+    top:-30rem;
+    left:5rem;
+    color:white;
+
+}
+#main{
+    font-size:60px;
+    font-family:'Poppins','sans-serif';
+    font-weight:700;
+}
+#sub{
+    font-size:30px;
+    font-family:'Poppins','sans-serif';
+    font-weight:100;
+}
