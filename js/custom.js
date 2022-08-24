@@ -33,7 +33,7 @@ $(document).ready(function(){
 
   $(document).ready(function(){
     $("#btn1").click(function(){
-      $(".all_img").toggle();
+      $(".all_img").show();
       
     });
   });
