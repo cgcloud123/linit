@@ -273,7 +273,7 @@ body{
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     background-attachment: 100% 100%;
-    background-attachment: fixed;
+    
     
     
     
@@ -287,7 +287,7 @@ body{
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     background-attachment: 100% 100%;
-    background-attachment: fixed;
+    
 }
 
 .slide2{
@@ -298,7 +298,7 @@ body{
     -o-background-size: 100% 100%;
     background-attachment: 100% 100%;
     height:600px;
-    background-attachment: fixed;
+    
 }
 
 .slide3{
@@ -309,7 +309,7 @@ body{
     -o-background-size: 100% 100%;
     background-attachment: 100% 100%;
     height:600px;
-    background-attachment: fixed;
+    
 }
 .slide4{
     background-image:url('../images/cog-wheels-gebb9621f4_1920.jpg');
