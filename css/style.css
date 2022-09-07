@@ -1102,6 +1102,7 @@ tr,td {
         background-attachment:unset !important;
         background-size:contain;
         backgrund-position:center top !important;
+        background-repeat:no-repeat;
     }
     #main{
        font-size:35px;
