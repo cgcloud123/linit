@@ -224,7 +224,7 @@ body{
 }
 
 #about2{
-    background:white;
+    background:whitesmoke;
     height:550px;
     background-repeat:no-repeat;
     width:100%;
@@ -334,7 +334,7 @@ body{
 }
 
 .slide10{
-    background:whitesmoke;
+    background:white;
     height: 600px;
     background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
@@ -346,7 +346,7 @@ body{
 }
 
 .slide11{
-    background:whitesmoke;
+    background:white;
     height: 600px;
     background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
@@ -357,7 +357,7 @@ body{
 }
 
 .slide12{
-    background:whitesmoke;
+    background:white;
     background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
