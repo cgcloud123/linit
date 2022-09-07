@@ -1100,6 +1100,7 @@ tr,td {
     .slide0,.slide1,.slide2,.slide3,.slide4{
         width: 100%;
         background-attachment:fixed;
+        background-size:contain;
     }
     #main{
        font-size:35px;
